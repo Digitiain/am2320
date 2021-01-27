@@ -1,4 +1,4 @@
-# AM2320 humidity and temporature sensor on a Raspberry Pi
+# AM2320 humidity and temperature sensor on a Raspberry Pi
 
 This [forked code](https://github.com/Gozem/am2320) is to access an AM2320 via i2c on Raspberry Pi – in particular, a Raspberry Pi Zero W. 
 
